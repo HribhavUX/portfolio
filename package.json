@@ -1,8 +1,8 @@
 {
   "name": "hribhav-portfolio",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "http://hribhavux.github.io/portfolio",
+  "private": false,
+  "homepage": "https://hribhavux.github.io/hribhav-portfolio/",
   "dependencies": {
     "@sanity/cli": "^3.3.1",
     "@sanity/client": "^4.0.1",
